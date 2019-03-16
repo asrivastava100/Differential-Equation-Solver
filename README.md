@@ -1,4 +1,4 @@
-# Differential-equation solver
+# Differential Equation Solver
 
 This project has been carried out in C++. The main project file is init.cpp 
 
