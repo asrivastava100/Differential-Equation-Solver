@@ -12,5 +12,9 @@ Stage 2: Build on Stage 1 by trying to handle auxiliary equations with complex r
 
   Status:Complete.
   
-Stage 3:   
+Stage 3:
+
+
+Other tasks:
+Exception handling: This is to ensure that users only enter numeric data   
   
