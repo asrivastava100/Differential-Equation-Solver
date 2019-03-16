@@ -1,6 +1,6 @@
 # Differential-equation solver
 
-This project has been carried out in C++. 
+This project has been carried out in C++. The main project file is init.cpp 
 
 The aim of this project is to solve a variety of second order differential equations. 
 
