@@ -34,7 +34,7 @@ int main(){
         long double m_1, m_2;
         m_1 = (-(b) + sqrt(pow(b,2)-4*a*c))/(2*a);
         
-        m_2 = (-b - sqrt(pow(b,2)-4*a*c))/(2*a);
+        m_2 = (-(b) - sqrt(pow(b,2)-4*a*c))/(2*a);
         
         cout<<"Root 1: "<<m_1<<endl;
         cout<<"Root 2: "<<m_2<<endl;
