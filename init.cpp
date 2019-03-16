@@ -38,8 +38,7 @@ int main(){
         double im_part_2=-sqrt(-discriminant)/(2*coeff1);
         cout<<"Root 1 of AUX: "<<real_part<<" + "<<im_part_1<<"i"<<endl;
         cout<<"Root 2 of AUX: "<<real_part<<" + "<<im_part_2<<"i"<<endl;
-        cout<<"The general solution is y= A(e^("<<real_part<<"x))cos("<<abs(im_part_1)<<"x) +B(e^("<<real_part<<"x))
-        sin("<<abs(im_part_1)<<"x) for some arbitrary constants A and B.\n";
+        cout<<"The general solution is y= A(e^("<<real_part<<"x))cos("<<abs(im_part_1)<<"x) + B(e^("<<real_part<<"x))sin("<<abs(im_part_1)<<"x) for some arbitrary constants A and B.\n";
     }
          
     else{
